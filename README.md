@@ -5,7 +5,7 @@ Laravel 5 package for the Zoopla API
 
 Simply add the following line to your `composer.json` and run install/update:
 
-    "raiserweb/laravel-zoopla": "dev-master"
+    "cyberduck/laravel-zoopla": "dev-master"
 
 ## Configuration
 
